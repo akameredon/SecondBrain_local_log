@@ -1,0 +1,6 @@
+{
+  "name": "Second Brain Capture System",
+  "description": "A personal local-first capture system for clipboard text, app activity, voice note transcription, and structured daily summaries with semantic search.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
